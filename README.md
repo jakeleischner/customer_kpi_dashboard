@@ -1,6 +1,10 @@
 # Strategic Customer KPI Dashboard
 End-to-end analytics project analyzing strategic customer KPIs, risks, and performance trends.
 
+## Dashboard Preview
+
+![Dashboard Preview](visuals/dashboard_preview.png)
+
 ## Interactive Dashboard
 
 View the live dashboard here:
