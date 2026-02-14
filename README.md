@@ -30,6 +30,3 @@ Tools Used
 Key Insights (to be completed)
 
 Recommendations (to be completed)
-
-Dashboard
-(Tableau Public link will be added here)
