@@ -1,6 +1,11 @@
 # Strategic Customer KPI Dashboard
 End-to-end analytics project analyzing strategic customer KPIs, risks, and performance trends.
 
+## Interactive Dashboard
+
+View the live dashboard here:
+[Strategic Customer Performance Dashboard](https://public.tableau.com/app/profile/jacob.leischner/viz/StrategicCustomerKPIDashboard/Dashboard2?publish=yes)
+
 Overview:
 This project simulates a program operations analyst supporting a portfolio of strategic customers. The goal is to monitor performance, identify risk signals, and provide actionable insights to leadership.
 
