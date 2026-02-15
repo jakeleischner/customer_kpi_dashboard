@@ -91,7 +91,6 @@ Make segmentation and concentration visible through a small set of recurring met
 - Revenue growth by segment (Strategic vs Non-Strategic)
 - Order frequency by segment
 - Average deal size by segment
-- Order status mix (to monitor operational he
-::contentReference[oaicite:0]{index=0}
+- Order status mix (to monitor operational health)
 
 The organization benefits from strong high-value accounts, but long-term resilience will depend on balancing revenue concentration with scalable mid-tier customer growth.
