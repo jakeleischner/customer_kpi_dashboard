@@ -13,11 +13,17 @@ View the live dashboard here:
 Overview:
 This project simulates a program operations analyst supporting a portfolio of strategic customers. The goal is to monitor performance, identify risk signals, and provide actionable insights to leadership.
 
-Business Questions:
-  Which customers are most at risk of escalation?
-  What KPIs best indicate declining performance?
-  Are high-revenue customers receiving adequate operational support?
-  Where should leadership intervene this quarter?
+## Key Business Questions
+
+1. How concentrated is revenue among the top-performing customers, and what risk does this create?
+
+2. How do strategic (top 20%) customers differ from non-strategic customers in revenue stability and purchasing behavior?
+
+3. What portion of total revenue is driven by high-value accounts versus the broader customer base?
+
+4. How consistent are revenue trends across customer segments over time?
+
+5. What operational patterns (deal size, order frequency, status mix) differentiate strategic accounts?
 
 Data:
 The dataset represents a fictional portfolio of strategic customers and includes:
